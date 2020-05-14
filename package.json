@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Kasia360/to-do-list.git",
+  "author": "Kasia Brzezinska <kasiaplaskota4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
