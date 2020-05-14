@@ -5,6 +5,9 @@
   "repository": "git@github.com:Kasia360/to-do-list.git",
   "author": "Kasia Brzezinska <kasiaplaskota4@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "dependencies": {
     "express": "4.17.1",
     "nodemon": "^2.0.3"
